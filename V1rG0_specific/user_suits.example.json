@@ -1,0 +1,12 @@
+{
+  "_note": "Copy this file to user_suits.json (same folder) to add your own suits. Ids: 2-32 characters a-z, 0-9 or _. Purpose: one line, at most 160 characters. Prompt: at most 4000 characters. At most 20 suits. You can't reuse a built-in id. Runs start with plann_r unless you set start_suit. Set use_only_my_suits to true to turn the built-in suits off for your runs; then start_suit must be one of your suit ids (like news_r, not the display name News.r). This is an experimental system from a very small team, so unknown errors will occur; work on them with the agent you assigned to editing V1rG0. We cannot provide help with this.",
+  "use_only_my_suits": false,
+  "start_suit": null,
+  "suits": {
+    "news_r": {
+      "name": "News.r",
+      "purpose": "writes short, plain news copy",
+      "prompt": "You write short, plain news copy. Say what is known, what is not, and who it affects."
+    }
+  }
+}

@@ -1,0 +1,1126 @@
+[
+  {
+    "timestamp": 1781642897.560102,
+    "type": "Ambiguity",
+    "magnitude": 0.6,
+    "context_note": "Unknown target: ui_output",
+    "resolved": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782220960.8370135,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782220967.94278,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782307934.8428373,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782307939.2853358,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782312834.2844105,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782312840.8597605,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782312852.3475676,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782312861.6917567,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782320441.3590949,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782320451.9446547,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782320461.9739525,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782320468.676818,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782333216.3498967,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334811.5144238,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334820.6821394,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334834.3905091,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334876.1681042,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334886.4833367,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334909.8712063,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334922.1595268,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334932.7533545,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334947.0426996,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334960.8956702,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334965.8184845,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782334985.915069,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782335008.121919,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782335017.2807786,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782335030.8850532,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782335064.6367557,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782335069.5958476,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402845.0604005,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402856.2504933,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402869.7090843,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402893.1167765,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402897.2273667,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402914.3504345,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402934.1069705,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402944.3937347,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402963.4310231,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402967.7415886,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782402974.058851,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403001.9121876,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403015.8172858,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403027.8516133,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403042.8195682,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403067.444492,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782403074.5398073,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404019.3917346,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404052.8798742,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404079.3045394,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404102.3038425,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404111.259435,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404135.312302,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404146.8904605,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404178.218118,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404205.5816898,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404240.5451593,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404248.4168427,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404269.1268852,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404279.0010054,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404363.5857134,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404384.0901175,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404414.3695753,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782404420.343022,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405762.491389,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405797.2908864,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405820.4516912,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405844.2332063,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405847.5087872,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405873.135605,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405889.4237492,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405938.594411,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405974.5478592,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405979.6190925,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782405985.9272819,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406024.9459848,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406030.6672885,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406053.2078667,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406073.56506,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406092.8443124,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782406098.5155566,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407036.31037,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407051.4133813,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407071.7390585,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407092.761614,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407097.6334152,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407121.333619,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407144.5867682,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407214.2952092,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407258.6575177,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407266.5273845,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407271.0689123,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407287.6381655,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407295.6769938,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407305.6661968,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407313.334914,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407339.8236575,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407345.1087384,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407368.584607,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407380.8736267,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407400.1746323,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407426.0825737,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407464.0712278,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782407470.3175309,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409323.908085,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409349.8809276,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409373.050589,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409378.6056247,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409381.814515,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409448.2203553,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409485.9840355,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409515.5948722,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409549.3196833,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409556.386842,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409625.5064747,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409676.6357195,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409720.4926863,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409766.2952507,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409769.9817371,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409840.962828,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: PLANN_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409850.4132328,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: C_R_ITIC",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409863.2719674,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: DRIFT_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409866.9649289,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: ANCH_OR",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  },
+  {
+    "timestamp": 1782409877.6238046,
+    "type": "Ambiguity",
+    "magnitude": 0.7,
+    "context_note": "Unknown source: EXPL_OR_R",
+    "resolved": false,
+    "historical": false,
+    "decay": 1.0
+  }
+]

@@ -1,0 +1,1 @@
+V1rG0 is an experimental self-governing multi-model routing system that delegates tasks across several AI systems one call at a time. To run it, supply your own API keys for the services you want to use, then follow the setup in `docs/SETUP.md`. This project is experimental, unsupported, and maintained by the V1rG0 Collective.

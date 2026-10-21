@@ -1,0 +1,13 @@
+{
+  "_comment": "Provider allowlist. Only providers in enabled_providers can be called. Enabling any provider other than deepseek is a human edit by the owner. Model ids for gemini/mistral/grok were checked against official docs on 2026-10-19; re-check before enabling.",
+  "enabled_providers": ["deepseek"],
+  "judge_model": "deepseek_chat",
+  "providers": {
+    "deepseek": {"model_ids": ["deepseek_chat"], "role": "primary + default/fallback judge", "env_key": "DEEPSEEK_API_KEY"},
+    "kimi": {"model_ids": ["kimi_k2_6"], "role": "secondary (idle until owner enables; cross-check is design-only)", "env_key": "MOONSHOT_API_KEY"},
+    "gemini": {"model_ids": ["gemini_flash"], "role": "slot (disabled): gemini-3.5-flash-lite", "env_key": "GEMINI_API_KEY"},
+    "mistral": {"model_ids": ["mistral_large"], "role": "slot (disabled): mistral-large-latest", "env_key": "MISTRAL_API_KEY"},
+    "grok": {"model_ids": ["grok_xai", "grok_xai_fast"], "role": "slot (disabled): grok_xai=grok-4.7 flagship, grok_xai_fast=grok-4.3 cheaper", "env_key": "XAI_API_KEY"},
+    "claude": {"model_ids": ["claude_sonnet"], "role": "slot (disabled): claude-sonnet-5-5 via Anthropic Messages API (Phase 21)", "env_key": "ANTHROPIC_API_KEY"}
+  }
+}

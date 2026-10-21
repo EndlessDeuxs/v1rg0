@@ -1,0 +1,10 @@
+{
+  "_note": "USD per 1M tokens, copied by a human from each provider's own pricing page. Leave null if unknown; V1rG0 never guesses a price. Output cost uses total_tokens - prompt_tokens, so billed reasoning tokens are counted.",
+  "prices": {
+    "deepseek": {"input_per_million": null, "output_per_million": null, "source": "", "checked": ""},
+    "mistral":  {"input_per_million": null, "output_per_million": null, "source": "", "checked": ""},
+    "grok":     {"input_per_million": null, "output_per_million": null, "source": "", "checked": ""},
+    "kimi":     {"input_per_million": null, "output_per_million": null, "source": "", "checked": ""},
+    "gemini":   {"input_per_million": null, "output_per_million": null, "source": "", "checked": ""}
+  }
+}

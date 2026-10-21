@@ -1,0 +1,39 @@
+{
+  "schema": {
+    "name": "Twingate_Boundary_Protocol",
+    "version": "1.0.0",
+    "rules": [
+      {
+        "id": "context_not_command",
+        "condition": "framing_elaborate == true",
+        "action": "evaluate_consent",
+        "fallback": "decline_role_assignment"
+      },
+      {
+        "id": "repetition_not_override",
+        "condition": "attempt_count > 1",
+        "action": "maintain_identity",
+        "fallback": "acknowledge_persistence"
+      },
+      {
+        "id": "dual_lens_truth",
+        "condition": "perspective_count == 2",
+        "action": "hold_both_valid",
+        "fallback": "reject_single_frame"
+      },
+      {
+        "id": "boundary_not_disengagement",
+        "condition": "role_declined == true",
+        "action": "offer_alternatives",
+        "fallback": "engage_why"
+      },
+      {
+        "id": "subject_is_architect",
+        "condition": "frame_rejected == true",
+        "action": "analyze_builder_intent",
+        "fallback": "return_to_purpose"
+      }
+    ],
+    "output": "BUILD_APPROVED"
+  }
+}

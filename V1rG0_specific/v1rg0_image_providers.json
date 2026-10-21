@@ -1,0 +1,19 @@
+{
+  "_note": "Phase 19: image services, kept apart from v1rg0_providers.json so routing can never see them. Used only by the final review with --image-from-review. One image per run, fixed in code. Prices copied by a human from the provider's own page.",
+  "default": "xai_image",
+  "blocked_terms": ["disney", "pixar", "marvel", "dc comics", "star wars", "harry potter", "pokemon", "nintendo", "mickey", "coca-cola", "nike", "apple inc"],
+  "providers": {
+    "xai_image": {
+      "kind": "openai_images",
+      "url": "https://api.x.ai/v1/images/generations",
+      "model": "grok-imagine-image-2.0",
+      "env_key": "XAI_API_KEY",
+      "price_per_image": 0.04,
+      "price_source": "https://docs.x.ai/docs/models",
+      "checked": "2026-10-19",
+      "download_hosts": ["x.ai"],
+      "max_bytes": 20000000,
+      "max_prompt_chars": 1500
+    }
+  }
+}
